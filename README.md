@@ -3,7 +3,7 @@ muchscraped
 
 > «verybello, such website, so expo, much scraped, wow»
 
-![«verybello, such website, so expo, much scraped, wow»](muchscraped.jpeg)
+![«verybello, such website, so expo, much scraped, wow»](muchscraped.jpeg =300x)
 
 Se siete italiani e girate per _l'interweb_ dovreste aver sentito parlare in
 questi giorni di [verybello.it](https://www.verybello.it).
@@ -18,7 +18,8 @@ di Matteo Flora.
 Fatte queste premesse, il primo passo per rendere migliore #verybello è rendere
 disponibili i dati, che è esattamente lo scopo di questo script python.
 
-I dati sono salvati nel database SQLite `verybello.sqlite`.
+I dati sono salvati nel database SQLite:
+[`verybello.sqlite`](https://github.com/CristianCantoro/muchscraped/blob/master/verybello.sqlite).
 
 ## Installazione
 
