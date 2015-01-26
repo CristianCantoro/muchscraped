@@ -8,12 +8,13 @@ muchscraped
 Se siete italiani e girate per _l'interweb_ dovreste aver sentito parlare in
 questi giorni (fine gennaio 2015) di [verybello.it](https://www.verybello.it).
 In caso contrario ecco un po' di contesto:
-* ["Franceschini, #verybello lascia #senzawords ma con tante domande"](http://www.ilfattoquotidiano.it/2015/01/25/franceschini-verybello-lascia-senzawords-tante-domande/1368756/) di Guido Scorza su "Il fatto quotidiano".
+* ["Franceschini, #verybello lascia #senzawords ma con tante domande"](http://www.ilfattoquotidiano.it/2015/01/25/franceschini-verybello-lascia-senzawords-tante-domande/1368756/) di Guido Scorza su "Il fatto quotidiano";
 * ["Ci vorrebbe il napalm"](http://www.mantellini.it/2015/01/24/ci-vorrebbe-il-napalm/)
-di Massimo Mantellini.
+di Massimo Mantellini;
 * ["#VeryBello: le mie considerazioni tecniche"](http://mgpf.it/2015/01/25/verybello-le-mie-considerazioni-tecniche.html)
-di Matteo Flora.
+di Matteo Flora;
 * ["VeryBello!, come trasformare una disfatta in una opportunità"](http://digitalchampions.it/archives/verybello-come-trasformare-una-disfatta-una-opportunita/)
+di Riccardo Luna.
 
 Fatte queste premesse, il primo passo per rendere migliore #verybello è rendere
 disponibili i dati, che è esattamente lo scopo di questo script python.
