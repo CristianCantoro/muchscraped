@@ -3,7 +3,7 @@ muchscraped
 
 > «verybello, such website, so expo, much scraped, wow»
 
-![«verybello, such website, so expo, much scraped, wow»](muchscraped.jpeg =300x)
+![«verybello, such website, so expo, much scraped, wow»](muchscraped.jpeg =300x300)
 
 Se siete italiani e girate per _l'interweb_ dovreste aver sentito parlare in
 questi giorni di [verybello.it](https://www.verybello.it).
