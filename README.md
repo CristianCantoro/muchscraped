@@ -33,9 +33,9 @@ pip install -r requirements.txt
 
 Il codice  di questo progetto è rilasciato con una licenza MIT.
 
-I dati, per quanto mi riguarda sono in pubblico dominio. Qualora qualcuno del
-MiBACT dovesse pensare altrimenti farei prima di tutto notare che credo si
-applica a questi dati la stessa normativa che si applica sul data mining (e,
+I dati, per quanto mi riguarda, sono in pubblico dominio. Qualora qualcuno del
+MiBACT dovesse pensare altrimenti farei prima di tutto notare che credo che
+a questi dati si applica la stessa normativa che si applica sul data mining (e,
 in buona sostanza, a Google e a tutti gli altri motori di ricerca) si veda
 [questa presentazione](https://commons.wikimedia.org/wiki/File:Legal_Implications_of_Text_and_Data_Mining_%28TDM%29.pdf).
 
