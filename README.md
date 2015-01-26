@@ -37,7 +37,7 @@ Il codice  di questo progetto è rilasciato con una licenza MIT.
 ## Licenza dei dati
 
 I dati di [verybello.it](https://verybello.it) sono per la maggior parte
-pubblicati come [open data dal MiBACT](http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/Sviluppatori/index.html)
+pubblicati come [open data dal MiBACT](http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/Sviluppatori/index.html).
 I dati sono anche accessibili via REST API in formato XML provvisto di
 XMLSchema.
 
@@ -59,3 +59,7 @@ che nella versione delle linee guida AgID per la valorizzazione del patrimonio
 informativo pubblico di giugno 2014 viene definita come licenza di default la
 CC-BY 4.0, si veda
 [pag. 84 di questo documento](http://www.agid.gov.it/sites/default/files/linee_guida/patrimoniopubblicolg2014_v0.7finale.pdf).
+
+### Ringraziamenti
+(Grazie a [Maurizio Napolitano](https://github.com/napo) per il
+[chiarimento](https://github.com/CristianCantoro/muchscraped/issues/1)).
