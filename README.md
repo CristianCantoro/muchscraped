@@ -41,4 +41,4 @@ in buona sostanza, a Google e a tutti gli altri motori di ricerca) si veda
 
 Qualora non doveste essere convinti potete fare richiesta di takedown seguendo
 la policy di GitHub relativa al [DMCA](https://help.github.com/articles/dmca-takedown-policy/).
-Le istruzioni su come fare richiesta sono [queste](https://help.github.com/articles/guide-to-submitting-a-dmca-takedown-notice/).
+Le istruzioni su come fare richiesta sono [queste](https://help.github.com/articles/guide-to-submitting-a-dmca-takedown-notice/).	
